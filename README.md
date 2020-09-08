@@ -5,18 +5,6 @@ This is a Node/Express app for jotting down ideas for future YoutTube ideas
 
 VidJot helps you jot down video ideas when there are no writing utensils in sight.
 
-## Technologies: 
-1. Heroku
-2. Passport.js
-3. Cookie-storage
-4. Cookie-parser
-5. Body-parser
-6. MongoDB
-7. Mongoose
-8. Node.js
-9. Express
-10. Bcrypt.js
-11. Passport.js
 
 ## Languages: 
 1. Swift
